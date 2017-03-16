@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2015\Projects\CmdAsyncSocket\CmdClient\bin\Debug\CmdClient.exe.config
+D:\Documents\Visual Studio 2015\Projects\CmdAsyncSocket\CmdClient\bin\Debug\CmdClient.exe
+D:\Documents\Visual Studio 2015\Projects\CmdAsyncSocket\CmdClient\bin\Debug\CmdClient.pdb
+D:\Documents\Visual Studio 2015\Projects\CmdAsyncSocket\CmdClient\obj\Debug\CmdClient.exe
+D:\Documents\Visual Studio 2015\Projects\CmdAsyncSocket\CmdClient\obj\Debug\CmdClient.pdb
+D:\Documents\UNIASSELVI\Disciplinas\Sistemas de Informação\Sistemas Distribuidos\Aulas\Aula 03 - Sockets Assíncronos Cmd\AsyncSocket\CmdClient\bin\Debug\CmdClient.exe.config
+D:\Documents\UNIASSELVI\Disciplinas\Sistemas de Informação\Sistemas Distribuidos\Aulas\Aula 03 - Sockets Assíncronos Cmd\AsyncSocket\CmdClient\bin\Debug\CmdClient.exe
+D:\Documents\UNIASSELVI\Disciplinas\Sistemas de Informação\Sistemas Distribuidos\Aulas\Aula 03 - Sockets Assíncronos Cmd\AsyncSocket\CmdClient\bin\Debug\CmdClient.pdb
+D:\Documents\UNIASSELVI\Disciplinas\Sistemas de Informação\Sistemas Distribuidos\Aulas\Aula 03 - Sockets Assíncronos Cmd\AsyncSocket\CmdClient\obj\Debug\CmdClient.exe
+D:\Documents\UNIASSELVI\Disciplinas\Sistemas de Informação\Sistemas Distribuidos\Aulas\Aula 03 - Sockets Assíncronos Cmd\AsyncSocket\CmdClient\obj\Debug\CmdClient.pdb
+D:\Documents\UNIASSELVI\Disciplinas\Sistemas de Informação\Sistemas Distribuidos\Aulas\Aula 03 - Sockets Assíncronos Cmd\AsyncSocket\CmdClient\obj\Debug\CmdClient.csprojResolveAssemblyReference.cache
